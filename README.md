@@ -20,5 +20,6 @@ Node.js+Express+EchartsGL+MapboxGL
 - 轨迹数据共2000多条，250万个轨迹点，初步的渲染效果和性能都还不错，值得继续摸索
 
 ## 演示效果
+()[https://gehuiling.github.io/2019/08/11/nodejs_echartsGL_geoVis/#]
 
 <img src="./demo/blog1901.gif" style="display:block;margin:0 auto;"> 
